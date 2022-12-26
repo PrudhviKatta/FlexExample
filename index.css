@@ -1,0 +1,30 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+.flexing{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.fstack{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    text-align: center;
+    padding:10px;
+    background-color:e7ecef;
+    width:300px;
+    margin: 16px;
+    border: 10px solid ;
+    border-color:274c77;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    padding: auto;
+    background-color:dad7cd;
+    color:white
+}
